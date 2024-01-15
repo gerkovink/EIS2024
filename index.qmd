@@ -1,5 +1,5 @@
 ---
-title: "Can an AI Obtain our Master’s Degree?"
+title: "AI-assisted learning and Open Education"
 author: Anne Scheel, Duco Veen, Hanne Oberman, Laurence Frank and Gerko Vink
 date-format: "D MMM YYYY"
 execute: 
@@ -19,15 +19,36 @@ format:
     toc-title: Outline
     scrollable: true
     reference-location: margin
-    footer: Anne, Gerko and Laurence - Can an AI obtain a master's degree?
+    footer: AI (Anne, Laurence, Gerko) - Open Education (Hanne, Duco, Gerko)
 ---
 
+## Disclaimer
+
+I owe a debt of gratitude to many people as the thoughts and code in these slides are the process of years-long development cycles and discussions with my team, friends, colleagues and peers. When someone has contributed to the content of the slides, I have credited their authorship.
+
+Scientific references are in the footer. Opinions and figures are my own, AI-generated or directly linked.
+
+::: callout-tip
+# Materials
+- slides: [www.gerkovink.com/EIS2024](https://www.gerkovink.com/EIS2024)
+- source: [https://github.com/gerkovink/EIS2024](https://github.com/gerkovink/Anatomy)
+:::
+
 # Can an AI Obtain our Master’s Degree?
+![](img/AI.png)
+
+## Or...
+
+- Could a student use generative AI to complete their coursework and succesfully obtain a degree?
+- Would it be possible that students that graduate our programme do not meet the exit requirements?
+- Can student performance be leveraged by the use of generative AI?
+- Where can we identify opportunities and pitfalls in the validity of our assessments, given that students use generative AI?
+
 
 ## Project Overview
-- **Objective**: Investigating the potential of AI as 'student candidates' in the MSBBSS Research Master’s program.
+- **Focus**: Investigating the potential of AI as 'student candidates' in the MSBBSS Research Master’s program.
 - **Finish**: August 31, 2024.
-- **AI Tools**: Utilizing ChatGPT and GitHub Copilot as these are the most advanced AI models available that are relevant in our field.
+- **AI Tools**: Utilizing [ChatGPT]() and [GitHub Copilot](https://github.com/features/copilot) as these are the most advanced AI models available that are relevant in our field.
 
 ## Methodology
 - **Coursework Participation**: AI models will participate in various coursework and assessments. 
@@ -35,30 +56,22 @@ format:
 - **Impact Analysis**: Assessing the effect of AI on student evaluations and academic testing validity.
 
 ### Planned course of action
-- We plan to make the assignment/test independently and assess the performance of each solution
-- We hire a student assistant to serve as the novice user
+
+Our team consists of 3 members: Anne Scheel, Laurence Frank and Gerko Vink. We are assisted by a student assistant. We plan to work as follows for every course:
+
+- 3 out of 4 make the coursework, exam or test
+- The assistant serves as the *novice* user
 - We aggregate our findings and record our observations
 - We present our findings to the teachers and discuss the results
 - We write a manuscript detailing our findings and analyses. 
 
-## What do we need from you?
-- **Exams and Tests**: Requesting access to exams and tests that would normally be graded towards course completion.
-- **Grading rubrics**: Requesting access to grading rubrics to allow for AI performance evaluation.
+## So far
+We ar currently awaiting for Ethical Clearance for our research.
 
+- We have geared our projects towards a collaborative effort of the whole research master's programme. 
+- All teachers have agreed to grade the AI-assisted coursework and tests.
+  - This ensures that our AI assisted course work is evaluated by the same standards as the course work of regular students.
 
-### Further involvement
-If you want to be involved and if you'd like to be a part of the project, we would be happy to have you on board. We are looking for teachers who are willing to:
-
-- grade the exercises/tests we have made
-- contribute to manuscript writing
-- provide feedback on our findings
-
-## What about?
-- **Feedback Mechanism**: Regular updates and feedback sessions with teachers.
-- **Data Confidentiality**: Ensuring the integrity and confidentiality of assessment materials to the extent possible. 
-  - We will not share any of the data we receive with third parties, except for the student assistant who will be working with us. Unless you specifically allow us to archive your exam materials and/or grading scheme publicly.
-  - We will not allow for OpenAI to add your exam materials and/or grading scheme to their training data. Unless you specifically allow us to.
-- **Legal Implications**: Ensuring compliance with the law and university regulations. This may be a challenging one as many law suits are expected to take place over the next years
 
 ## Deliverables
 - **AI Coursework Completion**: Extent to which AI models can complete coursework.
@@ -67,5 +80,22 @@ If you want to be involved and if you'd like to be a part of the project, we wou
 
 This project is funded by the School of Social and Behavioral Sciences as a Faculty USO project and is executed in close collaboration with USO consortium on generative AI in higher education. 
 
+## How you can stay connected
+![](img/uso.png)
+
+::: footer
+[https://teaching-and-learning-collection.sites.uu.nl/project/ai-in-higher-education/](https://teaching-and-learning-collection.sites.uu.nl/project/ai-in-higher-education/)
+:::
+
+## AI in higher education USO project
+- Work package 1: teaching and instructor support
+- Work package 2: students and learning support
+- Work package 3: grading and assessment
+- Work package 4: AI literacy as a future skill
+
+**Aims**
+This USO project has a highly explorative nature and seeks to grasp the consequences of generative AI for higher education. We seek to build a shared body of knowledge through educational interventions about the risks and possibilities of generative AI, and their use or avoidance in teaching and learning. This hopefully leads towards a stronger reflective AI awareness among staff and students.
+
+# Open Education
 
 
