@@ -1,0 +1,71 @@
+---
+title: "Can an AI Obtain our Master’s Degree?"
+author: Anne Scheel, Duco Veen, Hanne Oberman, Laurence Frank and Gerko Vink
+date-format: "D MMM YYYY"
+execute: 
+  echo: true
+editor: source
+format: 
+  revealjs:
+    theme: [solarized, gerko.scss]
+    progress: true
+    multiplex: true
+    transition: fade
+    slide-number: true
+    margin: 0.075
+    logo: "logo.png" 
+    toc: false
+    toc-depth: 1
+    toc-title: Outline
+    scrollable: true
+    reference-location: margin
+    footer: Anne, Gerko and Laurence - Can an AI obtain a master's degree?
+---
+
+# Can an AI Obtain our Master’s Degree?
+
+## Project Overview
+- **Objective**: Investigating the potential of AI as 'student candidates' in the MSBBSS Research Master’s program.
+- **Finish**: August 31, 2024.
+- **AI Tools**: Utilizing ChatGPT and GitHub Copilot as these are the most advanced AI models available that are relevant in our field.
+
+## Methodology
+- **Coursework Participation**: AI models will participate in various coursework and assessments. 
+- **Evaluation Criteria**: Performance evaluation across different assignment types.
+- **Impact Analysis**: Assessing the effect of AI on student evaluations and academic testing validity.
+
+### Planned course of action
+- We plan to make the assignment/test independently and assess the performance of each solution
+- We hire a student assistant to serve as the novice user
+- We aggregate our findings and record our observations
+- We present our findings to the teachers and discuss the results
+- We write a manuscript detailing our findings and analyses. 
+
+## What do we need from you?
+- **Exams and Tests**: Requesting access to exams and tests that would normally be graded towards course completion.
+- **Grading rubrics**: Requesting access to grading rubrics to allow for AI performance evaluation.
+
+
+### Further involvement
+If you want to be involved and if you'd like to be a part of the project, we would be happy to have you on board. We are looking for teachers who are willing to:
+
+- grade the exercises/tests we have made
+- contribute to manuscript writing
+- provide feedback on our findings
+
+## What about?
+- **Feedback Mechanism**: Regular updates and feedback sessions with teachers.
+- **Data Confidentiality**: Ensuring the integrity and confidentiality of assessment materials to the extent possible. 
+  - We will not share any of the data we receive with third parties, except for the student assistant who will be working with us. Unless you specifically allow us to archive your exam materials and/or grading scheme publicly.
+  - We will not allow for OpenAI to add your exam materials and/or grading scheme to their training data. Unless you specifically allow us to.
+- **Legal Implications**: Ensuring compliance with the law and university regulations. This may be a challenging one as many law suits are expected to take place over the next years
+
+## Deliverables
+- **AI Coursework Completion**: Extent to which AI models can complete coursework.
+- **Performance Analysis**: AI performance in various assignments and tests. 
+- **Educational Impact**: Insights on AI-assisted learning in higher education.
+
+This project is funded by the School of Social and Behavioral Sciences as a Faculty USO project and is executed in close collaboration with USO consortium on generative AI in higher education. 
+
+
+
