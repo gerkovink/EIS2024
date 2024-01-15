@@ -66,10 +66,10 @@ Our team consists of 3 members: Anne Scheel, Laurence Frank and Gerko Vink. We a
 - We write a manuscript detailing our findings and analyses. 
 
 ## So far
-We ar currently awaiting for Ethical Clearance for our research.
+We are currently awaiting ethical clearance for our research.
 
 - We have geared our projects towards a collaborative effort of the whole research master's programme. 
-- All teachers have agreed to grade the AI-assisted coursework and tests.
+- All involved coordinators have agreed to grade the AI-assisted coursework and tests.
   - This ensures that our AI assisted course work is evaluated by the same standards as the course work of regular students.
 
 
@@ -97,5 +97,33 @@ This project is funded by the School of Social and Behavioral Sciences as a Facu
 This USO project has a highly explorative nature and seeks to grasp the consequences of generative AI for higher education. We seek to build a shared body of knowledge through educational interventions about the risks and possibilities of generative AI, and their use or avoidance in teaching and learning. This hopefully leads towards a stronger reflective AI awareness among staff and students.
 
 # Open Education
+![](img/OE.jpg)
 
+## So far
+- Last year we presented the start of this project here: [www.gerkovink.com/koe](https://www.gerkovink.com/koe)
+
+## We now have a book!
+![](img/book.png)
+
+::: footer
+[www.gerkovink.com/openeducationbook](https://www.gerkovink.com/openeducationbook/)
+:::
+
+## We will
+
+Finalize the book after the draft stage and transfer ownership of [the repository](https://github.com/gerkovink/openeducationbook) to the UU library.
+
+### We invite you
+- To read the book
+- To contribute to the book: 
+- To make your own open educational materials
+- To share your open educational materials
+- To share your open educational practices
+
+**To further incite an open education movement at Utrecht University and beyond**
+
+To reiterate:
+
+- the book can be read here: [https://www.gerkovink.com/openeducationbook/](https://www.gerkovink.com/openeducationbook/)
+- the repository for the book is: [https://github.com/gerkovink/openeducationbook](https://github.com/gerkovink/openeducationbook)
 
