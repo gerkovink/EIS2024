@@ -101,6 +101,8 @@ This project is funded by the School of Social and Behavioral Sciences as a Facu
 **Aims**
 This USO project has a highly explorative nature and seeks to grasp the consequences of generative AI for higher education. We seek to build a shared body of knowledge through educational interventions about the risks and possibilities of generative AI, and their use or avoidance in teaching and learning. This hopefully leads towards a stronger reflective AI awareness among staff and students.
 
+**There is a kickoff event on Thursday January 18 @ 11am in Ruppert A.**
+
 # Open Education
 ![](img/OE.jpg)
 
