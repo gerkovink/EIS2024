@@ -29,10 +29,15 @@ I owe a debt of gratitude to many people as the thoughts and code in these slide
 Scientific references are in the footer. Opinions and figures are my own, AI-generated or directly linked.
 
 ::: callout-tip
+
 # Materials
 - slides: [www.gerkovink.com/EIS2024](https://www.gerkovink.com/EIS2024)
 - source: [https://github.com/gerkovink/EIS2024](https://github.com/gerkovink/Anatomy)
 :::
+
+::: footer
+[![](https://zenodo.org/badge/DOI/10.5281/zenodo.10513230.svg)](https://zenodo.org/records/10513230)
+::: 
 
 # Can an AI Obtain our Master’s Degree?
 ![](img/AI.png)
